@@ -2,3 +2,4 @@ streamlit
 serpapi
 joblib
 scikit-learn
+google-search-results
